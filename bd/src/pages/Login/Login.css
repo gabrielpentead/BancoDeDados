@@ -1,0 +1,76 @@
+/* signin.css */
+
+.container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Garante que o conteúdo fique centralizado verticalmente na tela */
+    background-color: #fff; /* Cor de fundo suave */
+  }
+  
+  .formulario-login {
+    background-color: #eee;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(97, 97, 97, 0.1);
+    width: 400px; /* Largura do formulário */
+  }
+  
+  .login .centralizar {
+    text-align: center;
+  }
+  
+  .img-container {
+    margin-bottom: 20px;
+  }
+  
+  .img-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  form input[type="text"],
+  form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Inclui padding e border na largura total */
+  }
+  
+  form button[type="submit"] {
+    background-color: #4CAF50; /* Cor verde */
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  form button[type="submit"]:hover {
+    background-color: #45a049; /* Cor verde mais escura ao passar o mouse */
+  }
+  
+  .links {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .links a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #007bff; /* Cor azul para os links */
+    text-decoration: none;
+  }
+  
+  .links a:hover {
+    text-decoration: underline;
+  }

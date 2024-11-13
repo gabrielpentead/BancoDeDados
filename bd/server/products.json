@@ -1,0 +1,300 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "imagens\\abacaxi.jpg",
+        "name": "Abacaxi",
+        "price": 10.99,
+        "unit": "Unidade",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+        
+    },
+    {
+        "id": 2,
+        "imageUrl": "imagens\\amora.jpg",
+        "name": "Amora",
+        "price": 44.99,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 3,
+        "imageUrl": "imagens\\banana.jpg",
+        "name": "Banana",
+        "price": 1.99,
+        "unit": "kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 4,
+        "imageUrl": "imagens\\figo.jpg",
+        "name": "Figo",
+        "price": 64.99,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 5,
+        "imageUrl": "imagens\\kiwi.jpg",
+        "name": "Kiwi",
+        "price": 5.99,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 6,
+        "imageUrl": "imagens\\laranja.jpg",
+        "name": "Laranja",
+        "price": 7.99,
+        "unit": "Unidade",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 7,
+        "imageUrl": "imagens\\limão.jpg",
+        "name": "Limão",
+        "price": 6.98,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 8,
+        "imageUrl": "imagens\\mamão.jpg",
+        "name": "Mamão",
+        "price": 4.99,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 9,
+        "imageUrl": "imagens\\manga.jpg",
+        "name": "Manga",
+        "price": 6.85,
+        "unit": "250g",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 10,
+        "imageUrl": "imagens\\melancia.jpg",
+        "name": "Melancia",
+        "price": 8.79,
+        "unit": "Kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 11,
+        "imageUrl": "imagens\\morango.png",
+        "name": "Morango",
+        "price": 14.99,
+        "unit": "kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 12,
+        "imageUrl": "imagens\\uva.jpg",
+        "name": "Uva",
+        "price": 7.99,
+        "unit": "kg",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 13,
+        "imageUrl": "imagens\\uva.jpg",
+        "name": "Uva Thompson",
+        "price": 14.97,
+        "unit": "500g",
+        "type": "fruta",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 14,
+        "imageUrl": "imagens\\alface.png",
+        "name": "Alface",
+        "price": 2.59,
+        "unit": "Unidade",
+        "type": "verdura",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 15,
+        "imageUrl": "imagens\\berinjela.jpg",
+        "name": "Berinjela",
+        "price": 4.69,
+        "unit": "Kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 16,
+        "imageUrl": "imagens\\brocolis.jpg",
+        "name": "Brócolis",
+        "price": 11.7,
+        "unit": "Kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 17,
+        "imageUrl": "imagens\\couve flor.jpg",
+        "name": "Couve Flor",
+        "price": 14.9,
+        "unit": "250g",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 18,
+        "imageUrl": "imagens\\cebola roxa.jpg",
+        "name": "Cebola Roxa",
+        "price": 6.99,
+        "unit": "kg",
+        "type": "verdura",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 19,
+        "imageUrl": "imagens\\ervilha.jpg",
+        "name": "Ervilha",
+        "price": 4.99,
+        "unit": "kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 20,
+        "imageUrl": "imagens\\espinafre.jpg",
+        "name": "Espinafre",
+        "price": 9.95,
+        "unit": "250g",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 21,
+        "imageUrl": "imagens\\hortela.jpg",
+        "name": "Hortelã",
+        "price": 3.49,
+        "unit": "100g",
+        "type": "verdura",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 22,
+        "imageUrl": "imagens\\milho.jpg",
+        "name": "Milho",
+        "price": 0.5,
+        "unit": "Unidade",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 23,
+        "imageUrl": "imagens\\pimentão.jpg",
+        "name": "Pimentão",
+        "price": 15.89,
+        "unit": "Kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 24,
+        "imageUrl": "imagens\\pepino.jpg",
+        "name": "Pepino",
+        "price": 15.9,
+        "unit": "Kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 25,
+        "imageUrl": "imagens\\repolho.jpg",
+        "name": "Repolho",
+        "price": 5.49,
+        "unit": "Kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 26,
+        "imageUrl": "imagens\\rabanete.jpg",
+        "name": "Rabanete",
+        "price": 3.5,
+        "unit": "250g",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 27,
+        "imageUrl": "imagens\\tomate.jpg",
+        "name": "Tomate",
+        "price": 6.99,
+        "unit": "kg",
+        "type": "hortalica",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 28,
+        "imageUrl": "imagens\\abobora.jpg",
+        "name": "Abobora",
+        "price": 9.99,
+        "unit": "Unidade",
+        "type": "legume",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 29,
+        "imageUrl": "imagens\\pao.jpg",
+        "name": "Pão Caseiro",
+        "price": 9.99,
+        "unit": "Unidade",
+        "type": "outro",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 30,
+        "imageUrl": "imagens\\bolacha.jpg",
+        "name": "Bolacha Caseira",
+        "price": 21.69,
+        "unit": "Kg",
+        "type": "outro",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 31,
+        "imageUrl": "imagens\\queijo.jpg",
+        "name": "Queijo Artesanal",
+        "price": 27.9,
+        "unit": "Kg",
+        "type": "outro",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 32,
+        "imageUrl": "imagens\\geleia artesanal.jpg",
+        "name": "Geleia Artesanal",
+        "price": 17.99,
+        "unit": "500g",
+        "type": "outro",
+"userEmail": "guilhermeev30@gmail.com"
+    },
+    {
+        "id": 33,
+        "imageUrl": "imagens\\Mel de abelha.jpg",
+        "name": "Mel de Abelha",
+        "price": 27.89,
+        "unit": "Kg",
+        "type": "outro",
+"userEmail": "guilhermeev30@gmail.com"
+    }
+]
